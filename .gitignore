@@ -1,5 +1,6 @@
-# IAF output folder
+# IAF output folder and csv files
 IAF/output
+IAF/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
