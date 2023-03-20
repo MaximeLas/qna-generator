@@ -1,0 +1,6 @@
+argparse
+fitz
+numpy
+pandas
+PyMuPDF
+openpyxl
