@@ -19,6 +19,6 @@ pip3 install -I PyMuPDF
 ### Run:
 Run the script with the following command to get the usage help:
 ```
-python3 question_answer_generator.py -h
+python3 qna_generator.py -h
 ```
 
