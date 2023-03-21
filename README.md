@@ -1,5 +1,5 @@
 # qna-generator
-A fantastic tool to generate questions and answers from grant applications documents. The tool can be used as both a **PDF-TXT Converter** and a **Q&A Generator**.
+:ferris_wheel: A fantastic tool to generate questions and answers from grant applications documents. The tool can be used as both a **PDF-TXT Converter** and a **Q&A Generator**.
 
 ## Setup:
 
