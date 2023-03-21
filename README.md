@@ -2,6 +2,15 @@
 A fantastic tool to generate questions and answers from grant applications documents. The tool can be used as both a **PDF-TXT Converter** and a **Q&A Generator**.
 
 ## Setup:
+
+Clone the repository:
+```
+git clone https://github.com/MaximeLas/qna-generator.git
+```
+Navigate to the repository:
+```
+cd qna-generator
+```
 Create a virtual environment:
 ```
 python3 -m venv env
