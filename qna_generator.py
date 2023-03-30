@@ -14,7 +14,7 @@ grants_dir = 'IAF'
 
 # keyword to pdf file map
 keyword_to_pdf_file_map = [
-    ('Belize', 'Belize English Proposals 2018-2022_Redacted.pdf'),
+    ('Maxime', 'Belize English Proposals 2018-2022_Redacted.pdf'),
     ('Jamaica', 'Jamaica Proposals 2018-2022.pdf'),
     ('Caribbean', 'Eastern Carribean English Proposals 2018-2022.pdf')
 ]
