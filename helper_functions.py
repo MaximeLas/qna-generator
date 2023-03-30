@@ -10,7 +10,7 @@ import numpy as np
 def excel_to_csv(file_excel: str):
     '''Convert excel to csv'''
 
-    # read excel file
+    # read wordchange file
     df = pd.read_excel(file_excel)
     # get csv file name
     file_csv = file_excel.replace('.xlsx','.csv')
