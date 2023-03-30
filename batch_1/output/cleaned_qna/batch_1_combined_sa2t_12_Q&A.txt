@@ -1,0 +1,56 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+CAN secured a Kaboom grant to construct an outdoor classroom at Arrowwood Hills, which includes a 24x28 ft pavilion. To help bolster the project, CAN is looking for ways to integrate a source of power and determined solar would be an excellent option. CAN will work with Homeland Solar to add solar panels to the pavilion, incorporating outlets on the pavilion, and if enough resources are available, the solar panels will be tied into Arrowwood Hills Community Center's electrical, which will likely include an inverter upgrade. 
+This project helps a predominantly low-income community. It helps address educational equity issues by providing power to an outdoor classroom. It reduces the cost of operating the community center and it adds more solar and resiliency to the Ann Arbor community. It is also worth noting that CAN is working with OCED on trying to robustly address the so far 56 of 350 households in AW that are behind on rent almost entirely due to pandemic-related challenges. Any resources that we can inject into this community would be incredibly helpful.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+This project incorporates 3 Sustainability Framework Goals: Climate and Energy, Community, and Land Use and Access. This project develops sustainable energy and a sustainable building, engages a diverse community in the broader project, and promotes a highly sustainable system.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+CAN will have installed solar panels on the pavilion to provide on-site electricity and surplus power will be added to the community center's grid.
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+Solar installation will include shortly after the pavilion installation, which is estimated for early Summer 2021. With finalized electrical permits in place, CAN estimates that this project will be completed by early Fall 2021.
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+This project is woven into an outdoor classroom project with art and design elements integrated by CAN Art & Design staff. This will help to highlight ways in which to beautify solar integration into communities.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+This project primarily consists of solar panels, which have a lifespan of about 25 years and longer. This project otherwise does not have significant operating expenses and will in fact reduce overall operating expenses of Arrowwood Hills Community Center by reducing its utility bills.

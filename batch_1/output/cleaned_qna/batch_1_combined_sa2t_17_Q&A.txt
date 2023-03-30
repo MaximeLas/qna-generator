@@ -1,0 +1,60 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+Miller Manor is a 106-unit apartment building primarily of single adults. Over 60% of the tenants were homeless at the time they moved in. Over 80% of the tenants have a disability. Many tenants are elderly and many are veterans. The property includes an art room that is staffed by tenants and provides art therapy and community building. 
+We would like to expand the current art program to expand the medium from canvas paintings to an outdoor sculpture, mural or other project that that engages with the surrounding neighborhood and is created by the tenants.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+Diverse Housing: a low-income housing project in a middle and high-income neighborhood.
+Engaged Community: The goal of the project is to bring tenants together through the resident council and engage residents in a community art project that reflects who they are. The end goal is a community event that invites the surrounding neighborhood
+Human Services: Art therapy
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+A resident-led design process leading to a community art project
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+Fall/Winter of 2020: Resident Council and tenants vision and planning
+Winter/Spring 2021: Purchase supplies and build project
+Spring 2021: Event Planning, Marketing and event held
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+Volunteer tenants and resident council as well as paid Avalon Housing and Ann Arbor Housing Commission staff
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+If the project is successful and tenants want to plan a 2nd project, the AAHDC will fund raise to complete another project. The AAHDC currently provides about $4,000/year in art supplies for the art room at Miller.

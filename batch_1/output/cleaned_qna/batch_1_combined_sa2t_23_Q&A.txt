@@ -1,0 +1,56 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+This project is to cover the cost of 2 batteries for a combined 20 kwh of electrical storage and will be coupled with a solar installation project. The batteries will add electrical resilience to the facility and will help to ensure on-site equipment such as refrigeration equipment remains unaffected in the event of an electrical outage. This facility is also a key community resource in the dissemination of basic need resources.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+This project specifically tackles the Sustainable Energy and Sustainable Buildings goals listed within the 
+Sustainability Framework plan. It additionally assists in the Human Services goal.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+This grant will cover the purchase and installation of 2 10-kwh batteries that will be tied into a solar panel installation.
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+July 1, 2020 - June 30, 2021
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+CAN staff will be coordinating with solar vendors and the City of Ann Arbor staff, which will be an in-kind contribution toward the project.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+This installation is intended to last for several decades with almost no maintenance. On-site staff and volunteers will also help to ensure that the solar panels are free of debris and dirt.

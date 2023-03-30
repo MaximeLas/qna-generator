@@ -1,0 +1,58 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+Built in 2005, Carrot Way is one of Avalon’s largest family sites, with thirty (30) one-, two- and three-bedroom units.  We have worked hard to keep the property a beautiful place to live. As we have seen families grow and new families move in, we see a need to update our playground equipment so that it continues to be  a place kids want to play. It's a huge benefit to our families to have a place right outside their door where their children can spend time outside, interacting with other children, and getting physical activity.  Beyond simply replacing aging equipment, we are also focusing on a wider range of ages with this proposal, ensuring the older kids also have an engaging, healthy, outdoor environment. Updating our playground structures to be more appealing to a broader age range of kids will help us better serve residents.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+Sustainability Framework. Avalon’s properties, including Carrot Way Apartments, operate as supportive housing and house households who have been homeless and have incomes at or below 30% of Area Median Income. This proposal also furthers the goal of Diverse Housing by enhancing the high quality of these existing supportive housing units through offering new equipment. This furthers the goal of Active Learning and Living by providing enhanced recreational opportunities for members of the community. This furthers the goal of Human Services by providing equipment and outdoor activities to increase the health and well-being of residents. This also promotes the Land Use and Access Goal of Integrated Land Use by incorporate these beneficial, healthy outdoor, on-site amenities.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+Completion of upgrade of Carrot Way Playground, including improvements to playground surfacing and installation of three or four new pieces of playground equipment.
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+July 2020:  Award.  
+August 2020: Equipment Ordering
+Sept-October 2020: Installation
+November 2020: Completion
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+Avalon maintenance will handle the long-term upkeep of the playground through our property operating budget.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+Avalon maintenance will handle the long-term upkeep of the playground through our property operating budget.

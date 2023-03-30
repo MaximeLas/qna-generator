@@ -1,0 +1,55 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+This is an annual event where we present to the community who we are and what we do. We set up 4 stages on Main and Washington Streets for performances and community participation. The event is 100% free and opened for the public, and all aspects of the event are 100% volunteer.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+Our event and organization helps to promote community involvement and an active life style.  One of the main goals of AACTMAD is to promote community dancing which can be a vital part of remaining active. Our events are open to all people regardless of age, ethnicity and gender. We promote diversity and engagement in the larger community.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+We provide a great event for the community.
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+The event is a one-day event.  We begin set up at noon, the event runs from 1:30 - 6pm, and we finish teardown by 7:00pm.  The event is on Sunday, September 4, 2022.
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+The only contributions are from volunteers who organize, set up, run, and perform at the event.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+This annual event has always been supported by the AACTMAD general fund, has received grants from the City of Ann Arbor, and the Pittsfield Grange. We hope to continue to provide this "gift" of dance and music to the Ann Arbor community into the foreseeable future. This would have been 24th consecutive ear of this event except it was cancelled the past two years because of the pandemic.

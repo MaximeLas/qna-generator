@@ -1,0 +1,65 @@
+
+****************************************************************************************************
+Start After	->	Project Description
+End Before	->	Estimated Total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+Ann Arbor Open School is planning an extensive redesign our outdoor play area and outdoor educational spaces. We have serious issues of erosion and runoff on our "upper playground" and issues with standing water and drainage on our "lower playground." We would like to incorporate a dry creek, runnels and permeable surface treatments as part of the redesign.
+****************************************************************************************************
+Start After	->	Sustainability Framework goals
+End Before	->	SA2 Grant Request
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+This will further Sustainable Systems goals by preventing soil erosion into the storm water drains, damaging tree and plant root systems. It also furthers the Healthy Ecosystems goal by diverting rainwater runoff to the ground through the permeable surfaces.
+****************************************************************************************************
+Start After	->	Grant Deliverables
+End Before	->	Timeline
+
+-- Question
+What are the proposed grant deliverables?
+
+-- Answer
+At the end of the project we will have a natural play area that will serve the students of the school during school hours and will serve the neighborhood and surrounding community during other times. By incorporating sustainable and healthy ecosystems goals, we will also be able to use these features in our educational programming. Our staff, parents, and students will thereby become more aware of ways that our community is working to meet goals established by the Sustainability Framework. We can also use the grant award in our media outreach to demonstrate how different entities can work together to meet the goals. 
+****************************************************************************************************
+Start After	->	Proposed Project Timeline
+End Before	->	Reimbursement or Direct Disbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+The project will be in phases. We will likely work on one playground area at a time so that students will always have a play area available that is not under construction. We have the whole project out for bid now. The bid window is scheduled to close on April 
+16th, 2019. Our hope is to break ground this spring.
+****************************************************************************************************
+Start After	->	Other Sources of Funding
+End Before	->	Other Contributions
+
+-- Question
+What other funding has been secured for the project?
+
+-- Answer
+The other source is funding is through the school district budget. The source of the funds is the sinking fund millage proposal that was approved by voters in 2017.
+****************************************************************************************************
+Start After	->	Other Contributions
+End Before	->	How will project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+We plan to supplement some of the construction with materials and time donated from our parent community.
+****************************************************************************************************
+Start After	->	How will project be maintained
+End Before	->	Right-of-Way Usage
+
+-- Question
+How will project durability be ensured? How will the project be maintained in the future?
+
+-- Answer
+The project will be maintained through the school district budget for grounds and play areas.

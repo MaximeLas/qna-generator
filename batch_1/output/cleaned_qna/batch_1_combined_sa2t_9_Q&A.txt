@@ -1,0 +1,56 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+A joint mini-grant program, partly funded by the City of Ann Arbor and partly funded by Ann Arbor Public Schools, where AAPS teachers can get small grants to undertake a project that will advance climate action in the local community. Grants will range between $500 and $1,000 and align with the AAPS’s soon to be released Sustainability Plan as well as the City of Ann Arbor’s A2ZERO Carbon Neutrality plan. The grant program would be announced in January 2023, with applications open for about 4 weeks. On Earth Day 
+2023, the award winners would be announced, after having been evaluated by a panel that includes representatives from AAPS and the City. Evaluation criteria would include feasibility, educational and environmental impacts, and geographic and grade-level distribution across the school district. By working together to create and administer this program, AAPS and A2 are demonstrating the types of collaborations that are essential to achieving our shared sustainability, equity, and climate action goals.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+This project is in full alignment with the climate and energy, community, and resource management goals. More specifically, by providing a jointly administered and jointly funded small grant program, AAPS and A2 are encouraging youth and teachers to become active members in our shared work to achieve carbon neutrality. This grant gives individuals an opportunity to bring forward an idea, share their thoughts in detail with peers, and potential receiving funding and administrative support to bring that idea to fruition. By doing this, we are giving people the direct power to be a key component of the climate and sustainability movement. And because we are centering youth in this work, we are also educating and engaging with future sustainability leaders – showing them how to turn their ideas into actions. While the grants will be open, we anticipate a significant number of applications focused on resource management (e.g., recycling, composting, food generation, pollinator habitats) as well as those focused on energy education and outreach and community engagement.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+Grant applications will be shared with a representative from the City that serves on the evaluation committee. This will serve as a process-based deliverable. The final deliverables will be a short (1-page) written summary on all the projects funded, pictures of activities undertaken, and an accounting of how the funds were spent. Should the City be interested, we can also have an awards ceremony together on Earth Day in which we announce the winners. This could serve as another action item/deliverable for the project.
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+This project would begin in January 2023. In February applications will be reviewed and on Earth Day 2023, grants will be awarded. Awardees will be expected to spend down their grant funds in the 2023/24 school year, with a summary report due by Earth Day 2024.
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+Administration, staff, student and volunteer time will be provided as in-kind contribution to the program.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+If the mini grant program proves successful, AAPS is committed to working with the City and internal AAPS stakeholders to make it a recurring event. This may mean that AAPS funds the entire program directly with a representative from the City serving on the review committee. This may mean continuing to jointly fund the program because of the clear value it provides to both AAPS and A2. Or it may mean another pathway to project continuation, such as fundraising or corporate sponsorship. Regardless, AAPS is committed to moving this pilot forward and, if successful, maintaining it.
