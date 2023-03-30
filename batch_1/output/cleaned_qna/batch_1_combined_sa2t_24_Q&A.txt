@@ -1,0 +1,64 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+The Pioneer Solar Panel Group is starting its third year of effort to bring solar energy to Pioneer High 
+School.  In the 2017-18 school year they entered the statewide “My Solar School Contest” which involved creating a plan to bring solar energy to their school.  In the 2018-19 school year Solar Panel Group members were able to design a project and raise the funds to purchase the equipment necessary to place solar powered phone and tablet charge lockers in the Pioneer High “Annex” meeting room.  Efforts included making a presentation to the Ann Arbor Energy Commission in May, 2018. 
+Solar collectors were to be installed on the south exterior wall “Annex” and connected to a battery storage module with built in inverter that would power a lockable phone and tablet charging “vending machine” in the Annex.  In the spring of 2019, $3,000 was awarded from the Pioneer Fund for Excellence and an additional $500 from the Pioneer High PTSO.  The necessary equipment was purchased and delivered to Pioneer High over the summer of 2019.  The equipment has recently been installed by Ann Arbor Public Schools Facilities Management personnel in October, 2019.  This was the first step of a larger goal to continue to encourage solar energy demonstration and learning at Pioneer High.  Signage still needs to be designed and installed for this first project, as well as a plan created to publicize the effort and educate about solar energy.  While only being in operation for a few weeks, the solar charge lockers have proven very popular and school leaders who are looking forward to the installation of additional solar powered lockers in the Library or other solar demonstrations for the High School.  
+We are requesting grant funds to continue our efforts to bring solar projects and education to Pioneer High.  Deliverables will include additional solar demonstration projects, publicity about the projects and educational materials for utilizing solar demonstrations for classroom or special projects.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+Sustainable Energy - This solar project will be a very visible hands-on demonstration of solar energy that will be used to educate students about solar energy and continue progress towards the final goal of a “Careers in Renewable Energy” class offering.
+Sustainable Buildings – This solar energy demonstration will forward the goal of bringing sustainable energy to the community and reduce carbon emissions.
+Engaged Community – This project will expose many students and community members to the students desire to bring solar energy to their school and the Ann Arbor community.
+Active Living and Learning – This project offers educational opportunities for Pioneer High students and staff as well as all members of our community
+Clean Air and Water – Solar energy is clean energy.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+The funds will be used to complete the installation of the solar powered charge lockers in the Pioneer High 
+“Annex”. Solar collectors connected to a battery storage module with built in inverter will be used to power a lockable phone and tablet charging locker vending machine in the Annex. Deliverables include fully installed solar powered charge lockers plus on-sight signage, publicity campaign and educational materials. The Pioneer Solar Group will explore further opportunities to install and promote solar energy in Ann Arbor Public Schools.
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+We plan to have the project completed by May 31, 2020.
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+The AAPS Facilities Department installed the first charge locker system, value of installation estimated at $1,500. 
+Besides the student team's ongoing efforts, Pioneer Teacher Stephen Armstrong has contributed his time as Solar Panel Team’s faculty sponsor for the past two years and will continue this sponsorship with future solar team efforts.  Ann Arbor resident and renewable energy specialist, David Konkle has volunteered as the Solar Mentor to the Pioneer Solar Panel Team for the past two years and will continue to work with the students to define goals and complete projects.  His own personal goal is to work with others to create a “Renewable Energy Careers” elective course for Pioneer High Students.  Estimated total hours donated so far exceed 100 hours.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+Ann Arbor Public Schools will maintain the project. Very little maintenance is expected to be necessary.

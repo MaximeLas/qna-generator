@@ -1,0 +1,78 @@
+
+****************************************************************************************************
+Start After	->	Project Description
+End Before	->	Estimated Total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+Since its launch in 2016, Recycle Ann Arbor’s A-Z Recycling Guide has seen nearly 250,000 page views. As a result, it has maintained its status as the number one reason people visit recycleannarbor.org. The A-Z Guide is a database with almost unlimited capacity for additional items and information about each item in the database. This easy-to-use design lends itself perfectly to an expansion of the guide to serve a broader purpose – helping the Ann Arbor Area achieve zero waste. Recycle Ann Arbor seeks to transform the A-Z Recycling guide into a comprehensive Zero Waste Guide. Through the use of a community and RAA staff-led volunteer task force, we intend to evaluate the current content and add additional recycling, composting, reuse, diversion and zero waste tips/options. We also plan to add a means for users to input improvement recommendations, be it content, means of access or other ideas. The task force intends to benchmark other recycling and zero waste resources and propose suggestions for unrealized innovations. The use of volunteers will help engage the community in zero waste education, as well as help reach each volunteer's network. Ultimately, if the vision of a Washtenaw County Regional Resource Management Authority is realized, the Guide could serve as a common resource for residents across the County.
+****************************************************************************************************
+Start After	->	Sustainability Framework goals
+End Before	->	SA2 Grant Request
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+Engaged Community - Ensure our community is strongly connected through outreach, opportunities for engagement, and stewardship of community  
+We will form an A-Z Zero Waste Guide task force of community volunteers to curate comprehensive zero waste content to add to the existing A-Z Recycling Guide. The current A-Z Recycling guide focuses on recycling services exclusive to Recycle Ann Arbor and the City of Ann Arbor residents, as well as the county’s home toxics program. We will transform the A-Z Guide into a Zero Waste guide. Volunteers will spend time evaluating the current guide's content and suggest improvements as well as gather new zero waste content. 
+
+Responsible Resource Use - Produce zero waste and optimize the use and reuse of resources in our community 
+Expansion and improvements made to the A-Z recycling guide directly benefit the Responsible Resource Use Sustainable Framework goal. By expanding the content and improving it as a community effort, we also elevate the awareness of the A-Z Guide as a community zero waste tool. The community members that volunteer to work on the project also learn more about recycling and zero waste. They help spread the word about the A-Z guide throughout their networks. All this, in turn, works to help foster a zero waste community and optimize the use and reuse of resources in the community.
+****************************************************************************************************
+Start After	->	Grant Deliverables
+End Before	->	Timeline
+
+-- Question
+What are the proposed grant deliverables?
+
+-- Answer
+• Conversion of A-Z recycling guide to A-Z Zero Waste Guide. 
+• Form task force of RAA staff and community volunteers.  
+• Improve current content of A-Z guide recycling content by adding zero waste suggestions, recycling tips, and more items, as well as increased functionality. 
+• Add compost instructions to A-Z Guide.  
+• Add web form allowing A-Z users to provide feedback for missing content and questions.  
+• Add locations to A-Z guide allowing for recycling, compost, reuse, and zero waste info to be added for regions/organizations outside of the City of Ann Arbor.  
+• Utilize volunteers and interns to outreach throughout the community about the guide.  
+• Create Google adwords campaign to help drive traffic to the guide 
+• Offer embedded widget version of A-Z zero waste guide to both the City of Ann Arbor and Washtenaw 
+County. 
+
+****************************************************************************************************
+Start After	->	Proposed Project Timeline
+End Before	->	Reimbursement or Direct Disbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+Project to commence on May 6th, 2019 and be completed by Dec. 31st, 2019. Our hope is that much of the volunteer work will be completed by September 6th, 2019 and the only remaining work will be left for RAA staff to complete. However, prior to organizing volunteers and supporting their availability we will remain flexible on this projection.
+****************************************************************************************************
+Start After	->	Other Sources of Funding
+End Before	->	Other Contributions
+
+-- Question
+What other funding has been secured for the project?
+
+-- Answer
+The A-Z Zero Waste Guide is located at recycleannarbor.org, a website owned and maintained by Recycle Ann Arbor, which will continue throughout and beyond the scope of this project. All costs beyond the grant amount of $10,000 will be paid for by Recycle Ann Arbor. Some costs of the project will be paid in advance by RAA and reimbursed through the grant. RAA most recently paid $5000 to transfer the A-Z guide to a new updated open source software - Drupal 8 from Joomla; RAA will not be including this amount into the project cost estimate, but hope that it demonstrates RAA’s commitment to maintaining the guide.
+****************************************************************************************************
+Start After	->	Other Contributions
+End Before	->	How will project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+RAA will utilize the strong recycling and zero waste interest within the community to form a task force of volunteers while providing its own staff to engage in the project as well. We are hoping to maintain a group of 10 volunteers alongside 1 summer intern and 1 temporary zero waste outreach staff throughout the length of the project.
+****************************************************************************************************
+Start After	->	How will project be maintained
+End Before	->	Right-of-Way Usage
+
+-- Question
+How will project durability be ensured? How will the project be maintained in the future?
+
+-- Answer
+RAA will retain ownership of A-Z guide, continue to maintain the guide, keeping it up to date, as well as hosted at recycleannarbor.org. The web form, allowing users to provide feedback electronically on the guide, will help ensure that the guide grows with our community as our recycling and zero waste evolves. There may be additional phases to the project, and future grant applications submitted as well.

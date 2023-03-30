@@ -1,0 +1,59 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+Pilot-building bench-marking metrics & date for energy, wateruse and commuter transportation data for A2 2030 District Buildings and share individual dashboards with building owners. The dashboard will benchmark the buildings' energy and water use against the 2003 CBECS data base and will have the capability of bench-marking transportation based on a commuter survey administeredevery two years. The project includes complete ASHRAE LEVEL II audits for at least 6 city buildings and bench-mark. 
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+Strategy 3 (Significantly improve the energy efficiency of our homes, businesses, schools, places of worship,recreation sites and government facilities): The project will bench-mark any building in the city that wants to be bench-marked and can pave the way for a bench-marking ordinance and provide a data for creating the Green Business Challenge. Building owners can measure their progress on reducing energy & water use along with GHG reductions.
+Strategy 4 (Reduce the miles we travel in our vehicles by at least 50%): The project will develop a transportation survey and baseline for buildings in the district, establishing a way building owners and businesses can measure their progress.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+1. Building Dashboards tracking energy, water (and ultimately transportation) for any commercial and multi-family building in the City of Ann Arbor that wants to participate
+2. District-wide aggregated dashboard that is published on the A2 2030 District website
+3. Transportation survey and baseline to benchmark building and district progress in reducing commuting vehicle miles traveled
+5. Monthly Programs that will educate building owners/managers, businesses, architects and contractors on implementing the A2 Zero Carbon Neutrality Plan
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+September 2020-June 30, 2021
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+U-M SEAS Masters Practicum Team work developing Transportation Survey and baseline with faculty advisor. The A2 2030 District leadership team chair is also a volunteer.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+The building dashboards are automatically updated through updates to the building Energy Star Portfolio Manager databases. Currently, building owners and the A2 2030 District enter building data. Buildings can be added at an time. The A2 2030 District is working with the City of Ann Arbor to automatically load water information. The transportation survey will be administered every two years by the A2 2030 District.

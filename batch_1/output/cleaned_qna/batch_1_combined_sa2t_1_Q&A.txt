@@ -1,0 +1,56 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+A collaboration between the non-profit Willow Run Acres, whose sole purpose is to combat poverty by teaching children and adults the history of American agriculture through the lens of the Underground Railroad and self sustainability, and an established local family farm, Vestergaard Farms, a project of long-term commitment has taken hold in a plan to educate the children in the area on the importance of their food through, Farm-to-Table 101.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+Access to local food and and community engagement are vital to the mission of Willow Run Acres. With the various types of fresh produce being grown in types of raised beds at the hands of local farmers and volunteers (community engagement) and land being specifically devoted to the education of children about where their food comes from through a garden tailor made for their engagement (education/access to local food), the furthering of your mission coincides with the success of ours.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+A local site for children and community member to learn about where their food comes from, the work involved in the cultivation of it, and some history about American agriculture.
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+12 months
+Land is already being staked out for use in Spring 2021. With the funding of this grant, raised bed gardens can be assembled through winter and installed at first thaw. Over the Spring and Summer months the "Sensory Garden" will also be curated.
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+Vestergaard Farms has been very generous in their contributions of: tools, land use, posts, and temporary fencing.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+Vestergaard Farms staff and Willow Run Acres staff and volunteers.

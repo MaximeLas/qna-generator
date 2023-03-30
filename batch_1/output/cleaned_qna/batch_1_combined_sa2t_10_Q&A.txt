@@ -1,0 +1,57 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+Baker Commons is a 64-unit project for low-income households, primarily single adults. Most of the tenants have a disability, are seniors, and/or were homeless at the time they were housed. Many of our tenants have food insecurities and tend to self-isolate. Community meal programs enable us to interact with tenants and check on their well-being, ensure they are getting enough healthy food, and help them to socialize with each other. This is an opportunity to engage tenants about community activities and to hear from tenants about what is going on in the building and problem solve with them.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+Diverse Housing: Low-income households in a high-income neighborhood
+Engaged Community: Food programs are a critical community engagement tool to check-in on tenant physical and mental health and to encourage human interaction
+Local Food: Food will primarily be provided by Food Gatherers and tenants who are Food Safe Certified prepare, serve and clean-up after the meals.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+Meals will be provided 5 days/week and whenever possible on the weekends as well.
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+Project will start July 1st, 2020 and continue through June 30, 2020.
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+The property manager at Baker will coordinate and oversee the program.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+Durability will be ensured through fundraising.

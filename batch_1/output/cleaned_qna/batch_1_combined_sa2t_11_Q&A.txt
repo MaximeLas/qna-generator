@@ -1,0 +1,56 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+CAN has experienced significant strain due to COVID-19, particularly around food security supports. Food program participant numbers have doubled, and CAN has expanded its services to meet the increased need. At Arrowwood Hills, supply costs have increased dramatically to ensure that the distribution of food is done safely to protect the community and staff that are on the front lines. CAN has added two new components to its food program: home deliveries and the distribution of meals and snacks to youth year-round. To sustain these efforts and approved goal by Arrowwood Hills resident board, CAN is going to create an on-site food pantry with eco-friendly refrigeration and freezer capability. New space at Arrowwood Hills Community Center has already been identified for the on-site food pantry, which over 60% of product will be locally sourced produce and assist with addressing a variety of health and wellness needs. CAN recognizes that pandemic-induced food insecurity is not going to be alleviated easily; thus, the organization is preparing to sustain this growth in its food program despite the uncertainty of the coming months and years.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+This project through its acquisition of eco-friendly refrigeration and freezers tie into Sustainable Buildings goal. This project truly shines in its efforts to address Community Goals specifically Engaged Community, Diverse Housing (providing on-site basic need services), and Human Services. CAN's food sourced through Food Gatherers is also predominantly locally sourced and over 60% of product is healthy produce.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+CAN will repurpose an under-utilized storage room and install food pantry equipment including refrigeration and freezer equipment by Fall 2020. Once installed, CAN will increase food orders from Food Gatherers and maintain a supply of food resources available 5 days a week, year-round. Currently, CAN is only able to support once monthly food distributions due to the lack of on-site storage especially for products requiring refrigeration and freezing.
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+By October 2020, CAN will have a fully operational full-service pantry at Arrowwood Hills Community 
+Center. By June 30, 2020, CAN will have tripled the amount of food distributed out of this facility.
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+CAN will be leveraging dozens of volunteers and at least one full-time AmeriCorps VISTA for this project.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+The bulk of this project is to cover the procurement of essential food pantry equipment. The equipment in particular minimally has a 7-year warranty and CAN anticipates its continued use well beyond 10 years. The equipment makes up nearly all of the project expenses and CAN's history of leveraging community contributions and grant funding provides a fairly reliable base for continued service delivery to keep the pantry thriving for years to come.

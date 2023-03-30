@@ -1,0 +1,57 @@
+
+****************************************************************************************************
+Start After	->	Brief project description
+End Before	->	Estimated total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+Creekside Court Community Center is currently under-construction with completion estimated in the Fall 2020 and will serve the newly housed families that were previously homeless. This facility will be providing a variety of basic need services including food assistance, community building services, and year-round educational supports for K-12 youth. The building costs are fully covered but filling the space with much-needed furniture, equipment, and supplies are uncertain and are a critical aspect to ensuring these new families receive the resources that they need the moment they move-in. This grant will support the acquisition of essential, low-energy consuming refrigeration and freezers for the on-site food pantry, dynamic modular furniture designed for multiple purposes (ex. tutoring, community meetings and events, food distributions), and other critical supplies.
+****************************************************************************************************
+Start After	->	Which Sustainability Framework Goals
+End Before	->	Sustainability Grant Information
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+This project through its acquisition of eco-friendly refrigeration and freezers as well as the facility's installation of energy efficient lighting (covered in buildin construction) tie into Sustainable Buildings goal. This project truly shines in its efforts to address Community Goals specifically Engaged Community, Diverse Housing (providing on-site housing stabilization services), Human Services, Safe Community, and Active Living and Learning. CAN's food sourced through Food Gatherers is also predominantly locally sourced and over 60% of product is healthy produce.
+****************************************************************************************************
+Start After	->	What will be the grant "deliverables"?
+End Before	->	Project timeline
+
+-- Question
+What will be the grant deliverables\?
+
+-- Answer
+- CAN will acquire and install all project equipment and supplies by Fall 2020.
+- CAN will concurrently initiate education, housing stabilization including food security, and community building activities as residents move-in starting Fall 2020. 
+- By March 31, 2021, CAN will have provided support and community building services for 100% of under-resourced community residents.
+****************************************************************************************************
+Start After	->	a year of the grant award\)
+End Before	->	Are you requesting reimbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+CAN anticipates fully expending this grant by Fall 2020 when equipment and supply purchases will take place. As noted in grant deliverables, CAN will have reached 100% of Creekside Court residents in the usage of the equipment and supplies by March 31, 2021.
+****************************************************************************************************
+Start After	->	Describe other contributions
+End Before	->	How will the project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+CAN anticipates leveraging dozens of volunteers and at least one full-time year-long AmeriCorps VISTA worker to provide on-site supports in service delivery.
+****************************************************************************************************
+Start After	->	How will the project be maintained in the future\?
+End Before	->	Please attach
+
+-- Question
+How will project durability be ensured?
+
+-- Answer
+The bulk of this project is to cover the procurement of essential equipment and supplies. The equipment in particular minimally has a 7-year warranty and anticipates its continued use well beyond 10 years. The equipment makes up nearly all of the project expenses and CAN's history of leveraging community contributions and grant funding provides a fairly reliable base for continued service delivery.

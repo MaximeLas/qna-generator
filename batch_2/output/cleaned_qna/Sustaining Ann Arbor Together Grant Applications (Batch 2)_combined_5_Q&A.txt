@@ -1,0 +1,67 @@
+
+****************************************************************************************************
+Start After	->	Project Description
+End Before	->	Estimated Total
+
+-- Question
+Please provide a brief summary of the proposed project.
+
+-- Answer
+Develop a current building stock analysis of the City of Ann Arbor excluding the University of Michigan-owned buildings. 
+****************************************************************************************************
+Start After	->	Sustainability Framework goals
+End Before	->	SA2 Grant Request
+
+-- Question
+How does the project advance sustainability?
+
+-- Answer
+Climate & Energy: Energy Conservation and Sustainable Buildings 
+By establishing the building stock analysis, citywide water and energy baselines, we can measure reductions, compare the regional average EUIs against actual energy and water use, and better understand our city consumption characteristics to effectively target conservation measures and policies. The data base could also be used with Yellow Fin to interface with other city databases to find buildings that have not been renovated recently to create a deep green renovation opportunity list to target with incentives as an example.
+****************************************************************************************************
+Start After	->	Grant Deliverables
+End Before	->	Timeline
+
+-- Question
+What are the proposed grant deliverables?
+
+-- Answer
+The deliverables will be a building stock analysis similar to what Zero Cities has done for Grand Rapids. In addition, a citywide energy baseline (EUI by building use) and water baseline (WUI) by building use will be established. Building uses are based on Zero Tool uses similar to those used by Energy Star Portfolio Manager. The database will be available to the City as well as Ann Arbor 2030 District. 
+****************************************************************************************************
+Start After	->	Proposed Project Timeline
+End Before	->	Reimbursement or Direct Disbursement
+
+-- Question
+What is the project timeline? When will it be finished?
+
+-- Answer
+Deliverables will be complete by December 31, 2019.
+****************************************************************************************************
+Start After	->	Other Sources of Funding
+End Before	->	Other Contributions
+
+-- Question
+What other funding has been secured for the project?
+
+-- Answer
+The district will be funding $5600 through funds in hand.
+****************************************************************************************************
+Start After	->	Other Contributions
+End Before	->	How will project be maintained
+
+-- Question
+What other support has been secured for the project?
+
+-- Answer
+Volunteer hours: 2030 
+District supervision and training: 40 hours 
+UM intern volunteers: 220 hours including a SEAS Masters Practicum that has been approved
+****************************************************************************************************
+Start After	->	How will project be maintained
+End Before	->	Right-of-Way Usage
+
+-- Question
+How will project durability be ensured? How will the project be maintained in the future?
+
+-- Answer
+The Ann Arbor 2030 District will continue to update and use the database which will be accessible to the City of Ann Arbor.
